@@ -13,10 +13,10 @@ project.extra["GithubUrl"] = "https://github.com/<INSERT NAME>/<INSERT REPOSITOR
 apply<BootstrapPlugin>()
 
 subprojects {
-    group = "com.example"
+    group = "com.dreams"
 
-    project.extra["PluginProvider"] = ""
-    project.extra["ProjectSupportUrl"] = ""
+    project.extra["PluginProvider"] = "0xDREAMS"
+    project.extra["ProjectSupportUrl"] = "https://github.com/0xDREAMS/plugins-release/issues"
     project.extra["PluginLicense"] = "3-Clause BSD License"
 
     repositories {
