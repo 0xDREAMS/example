@@ -27,8 +27,8 @@ import ProjectVersions.openosrsVersion
 
 version = "1.0.0"
 
-project.extra["PluginName"] = "Text to Speech Extended" // This is the name that is used in the external plugin manager panel
-project.extra["PluginDescription"] = "Speak messages sent to the chat box." // This is the description that is used in the external plugin manager panel
+project.extra["PluginName"] = "Example" // This is the name that is used in the external plugin manager panel
+project.extra["PluginDescription"] = "Example" // This is the description that is used in the external plugin manager panel
 
 dependencies {
     annotationProcessor(Libraries.lombok)

@@ -25,7 +25,7 @@
 
 rootProject.name = "external plugins"
 
-include(":ttsextended")
+include(":example")
 
 for (project in rootProject.children) {
     project.apply {
