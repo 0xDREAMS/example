@@ -10,8 +10,8 @@ import javax.inject.Inject;
 
 @Extension
 @PluginDescriptor(
-		name = "Text to Speech Extended",
-		description = "Speak the chat box."
+		name = "Example",
+		description = "Example"
 )
 
 @Slf4j
