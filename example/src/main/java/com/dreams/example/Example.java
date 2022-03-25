@@ -10,8 +10,8 @@ import javax.inject.Inject;
 
 @Extension
 @PluginDescriptor(
-		name = "Example",
-		description = "Example"
+		name = "Example 2",
+		description = "Example 2"
 )
 
 @Slf4j
